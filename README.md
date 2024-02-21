@@ -1,6 +1,6 @@
 ![banner](https://github.com/michel929/michel929/blob/main/banner_4.png)
 
-<b>Welcome to my Profile!</b> I am Michel, a 20 years old Developer from Germany. I started programming professionally in 2018 and joined [@VSE-NET](https://vsenet.de/) as an apprentice in 2021, which is where I am working since!
+<b>Welcome to my Profile!</b> I am Michel, a 21 years old Developer from Germany. I started programming professionally in 2018 and joined [@VSE-NET](https://vsenet.de/) as an apprentice in 2021, which is where I am working since!
 
 I am one TeamLeader of the [Team Sensivity Server](https://team-sensivity.de). I developed the [Dashboard](https://dashboard.sensivity.team), [Website](https://team-sensivity.de) and [DiscordBot](https://github.com/michel929/TeamSensivityBot)
 
